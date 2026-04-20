@@ -1,0 +1,13 @@
+{
+  "players": {
+  },
+  "turn": {
+    "current": 1,
+    "history": [
+    ],
+    "summary": ""
+  },
+  "turns": 5,
+  "player_count": 1,
+  "theme": ""
+}
