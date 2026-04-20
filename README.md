@@ -9,10 +9,11 @@ Built with Python, discord.py, and Groq.
 2 player game, 5 turns, theme = summoners rift, spanish
 
 Original:
-<img width="1182" height="347" alt="image" src="https://github.com/user-attachments/assets/07460f38-33f2-426e-bca5-2e3438f484fa" />
+<img width="1177" height="350" alt="image" src="https://github.com/user-attachments/assets/14747d8e-4a9c-4f34-ba78-d07b7b309612" />
 
 Translation:
-<img width="1208" height="354" alt="image" src="https://github.com/user-attachments/assets/22837097-fe6e-4c1d-acae-5702d30845b0" />
+<img width="1208" height="354" alt="image" src="https://github.com/user-attachments/assets/d88d12e4-108a-44f8-9bcc-0f95d697e633" />
+
 
 ## Features
 - Multi-player support — players join via `/join` before the story begins
